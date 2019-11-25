@@ -1,3 +1,4 @@
-def greeting
-  puts "Hello World!"
+def board
 end
+
+board = [" "," ", " ", " ", " ", " ", " ", " ", " "]
